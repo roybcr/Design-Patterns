@@ -1,0 +1,13 @@
+{
+  "Java": {
+    "beautifiers": ["Pretty Diff"],
+    "align_assignments": false,
+    "break_chained_methods": false,
+    "indent_comments": true,
+    "indent_size": 4,
+    "indent_style": "space",
+    "multiline_ternary": "never",
+    "max_preserve_newlines": 1,
+    "wrap_line_length": 120
+  }
+}

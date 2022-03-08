@@ -1,0 +1,15 @@
+{
+  "java.project.sourcePaths": [
+    "Creational/AbstractFactory/src",
+    "Creational/Builder/src",
+    "Creational/Prototype/src",
+    "Creational/Singleton/src",
+    "Structural/Adapter/src",
+    "Structural/Composite/src",
+    "Structural/Decorator/src",
+    "Structural/Facade/src",
+    "Structural/Flyweight/src",
+    "Structural/Proxy/src"
+  ],
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+}

@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": ["src", "src/**/*"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.dependency.packagePresentation": "hierarchical",
+  "java.dependency.showMembers": true
+}
